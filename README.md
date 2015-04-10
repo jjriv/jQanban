@@ -1,4 +1,4 @@
-[jQanban](http://myintervals.com/jqanban/) - jQuery Kanban UI for Intervals Task Management API
+[jQanban](https://kanban.myintervals.com/) - jQuery Kanban UI for Intervals Task Management API
 ==================================================
 
 What it be like
